@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //File/invalide caches/restart --> neustart des Programms (wenn keine Fehlermeldung kommt aber nicht funkioniert)
         //Build /Rebuild Project
         //test123
+        //test2
 
     //Grandle rechts oben\Testapp Unterricht\Tasks (kleine Hilfe)
     }
