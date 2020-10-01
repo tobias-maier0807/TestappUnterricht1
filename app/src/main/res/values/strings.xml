@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testapp Unterricht</string>
+    <string name="title">Dies ist ein Text!</string>
+    <string name="red">ROT</string>
+    <string name="gelb">GELB</string>
+    <string name="end">ENDE</string>
+</resources>
